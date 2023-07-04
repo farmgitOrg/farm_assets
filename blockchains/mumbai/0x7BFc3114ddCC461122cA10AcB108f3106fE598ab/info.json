@@ -1,0 +1,10 @@
+{
+  "name": "Tether USD",
+  "type": "MUMBAI",
+  "symbol": "USDT",
+  "decimals": 6,
+  "website": "https://tether.to/",
+  "description": "Tether gives you the joint benefits of open blockchain technology and traditional currency by converting your cash into a stable digital currency equivalent.",
+  "id": "0x7BFc3114ddCC461122cA10AcB108f3106fE598ab",
+  "tags": ["stablecoin"]
+}

@@ -1,0 +1,9 @@
+{
+  "name": "Wrapped Ether",
+  "type": "MUMBAI",
+  "symbol": "WETH",
+  "decimals": 18,
+  "website": "https://weth.io/",
+  "description": "wETH is wrapped ETH",
+  "id": "0xeCFE1A3062D059B5D3faa80f7D4cb7CE52a7BdDc"
+}

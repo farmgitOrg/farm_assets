@@ -1,0 +1,7 @@
+{
+  "name": "rETH",
+  "type": "ERC20",
+  "symbol": "rETH",
+  "decimals": 18,
+  "id": "0x791C1530431a70C88b6B48f76e86b25f51eC3371"
+}
