@@ -1,9 +1,7 @@
 {
-  "name": "Wrapped Ether",
-  "type": "MUMBAI",
-  "symbol": "WETH",
-  "decimals": 18,
-  "website": "https://weth.io/",
-  "description": "wETH is wrapped ETH",
+  "name": "Wrapped BTC",
+  "symbol": "WBTC",
+  "type": "ERC20",
+  "decimals": 8,
   "id": "0xeCFE1A3062D059B5D3faa80f7D4cb7CE52a7BdDc"
 }
