@@ -1,0 +1,9 @@
+{
+  "name": "Dai Stablecoin",
+  "symbol": "DAI",
+  "decimals": 18,
+  "website": "https://tether.to/",
+  "description": "Multi-Collateral Dai, brings a lot of new and exciting features, such as support for new CDP collateral types and Dai Savings Rate.",
+  "id": "0xbf81BEEf4424d2E60a2B094563BB787788fBf56b",
+  "tags": ["stablecoin", "defi"]
+}
