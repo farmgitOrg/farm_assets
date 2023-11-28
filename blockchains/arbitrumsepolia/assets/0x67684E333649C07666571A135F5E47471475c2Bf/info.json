@@ -1,0 +1,9 @@
+{
+  "name": "stETH",
+  "website": "https://stake.lido.fi",
+  "description": "stETH is a token that represents staked ether in Lido.",
+  "type": "ERC20",
+  "symbol": "stETH",
+  "decimals": 18,
+  "id": "0x67684E333649C07666571A135F5E47471475c2Bf"
+}

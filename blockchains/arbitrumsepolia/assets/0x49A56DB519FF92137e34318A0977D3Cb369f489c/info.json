@@ -1,0 +1,9 @@
+{
+  "name": "USD Coin (Arb1)",
+  "symbol": "USDC",
+  "decimals": 6,
+  "website": "https://www.centre.io/usdc",
+  "description": "USDC is a fully collateralized US Dollar stablecoin developed by CENTRE, the open source project with Circle being the first of several forthcoming issuers.",
+  "id": "0x49A56DB519FF92137e34318A0977D3Cb369f489c",
+  "tags": ["stablecoin"]
+}
