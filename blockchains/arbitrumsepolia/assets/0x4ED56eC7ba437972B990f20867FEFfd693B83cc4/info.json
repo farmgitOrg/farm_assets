@@ -1,0 +1,7 @@
+{
+  "name": "brc20lp",
+  "type": "ERC20",
+  "symbol": "BRC20LP",
+  "decimals": 18,
+  "id": "0x4ED56eC7ba437972B990f20867FEFfd693B83cc4"
+}
